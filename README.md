@@ -11,3 +11,12 @@
 1. Установите зависимости:
    ```bash
    pip install -r requirements.txt
+   
+2. Запустите игру, выполнив файл `ChessMain.py`, который находится в папке `Chess/`.
+
+Это можно сделать двумя способами:
+
+- **Через терминал:**
+
+  ```bash
+  python Chess/ChessMain.py
